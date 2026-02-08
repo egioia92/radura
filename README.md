@@ -1,4 +1,4 @@
-# radura
+# $\color{orange}{\textsf{radura}}$
 
 Radura was born quietly.  
 From margins, from gestures shared without speaking.  
