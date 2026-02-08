@@ -15,16 +15,22 @@ Spazio Zephiro, Castelfranco Veneto, Italy
 ### $\color{orange}{\textsf{documentation}}$
 
 [![installation view 1](https://img.shields.io/badge/View_Gallery-Spazio_Zephiro-orange?style=flat-square)](https://carlogioia.net/interfacce-popolari)  
-*Installation view and full project gallery.*
+
 
 [![detail view](https://img.shields.io/badge/View_Archive-Open_Source_Traces-orange?style=flat-square)](https://carlogioia.net/interfaccepopolariopenarchive)  
-*Traces, materials, and digital archive.*
+
 
 ##
 
-### $\color{orange}{\textsf{my contribution: U Šcandë Pichë}}$
+### $\color{orange}{\textsf{contribution: U Šcandë Pichë}}$
 
-![contribution image](PASTE_YOUR_GITHUB_LINK_HERE)
+<br>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c14418e9-5e39-4e31-83c3-205a1b221439" alt="U Šcandë Pichë device" width="300" style="border-radius: 8px; box-shadow: 0px 4px 12px rgba(0,0,0,0.1);">
+</div>
+
+<br>
 
  **U Šcandë Pichë** (the magpie-scarer) evokes the rural practice of reuse, in which discarded materials—such as cans and plastic containers—are repurposed into functional tools. Traditionally used as wind-activated noisemakers, this interface evolves the function through a sound recognition system based on **TinyML**. 
 
