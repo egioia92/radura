@@ -17,14 +17,14 @@ And it has started to move.
 ##
 
 <br>
-  
+
 ### $\color{orange}{\textsf{exhibitions}}$
 
-* $\color{orange}{\textsf{Folk Interfaces (Handing Down Is Open Source)}}$ — [view ↗](./folk-interfaces)
+* $\color{orange}{\textsf{Folk Interfaces (Handing Down Is Open Source)}}$ — [view ↗](./folk-interfaces)  
   Spazio Zephiro, Castelfranco Veneto, Italy, 2025  
   > *A living repository of materials, traces, and experiments — open for consultation, navigation, and reappropriation.*
 
-* $\color{orange}{\textsf{Scuotere il cielo}}$ — [view ↗](./scuotere-il-cielo) 
+* $\color{orange}{\textsf{Scuotere il cielo}}$ — [view ↗](./scuotere-il-cielo)  
   Archeoparco, Cersosimo, Italy, 2024  
   > *An inquiry into vertical landscapes and celestial traces.*
 
