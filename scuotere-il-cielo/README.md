@@ -110,10 +110,9 @@ This system replaces complex software sliders with muscle memory. The combinatio
 
 Users don't just "see" the AI generating images; they "feel" like they are steering it. This allows for a physical exploration of the generative space, giving users the agency to speed up, slow down, or freeze a specific moment in the stream of creativity.
 
-
-
-##
-
-<br>
+<details>
+  <summary>▶ Click to expand video</summary>
+  <video src="https://github.com/user-attachments/assets/fb0c488d-3677-4911-83d9-f4ed8731cd67" controls width="100%"></video>
+</details>
 
 [**← back to radura**](../)
